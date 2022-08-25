@@ -1,1 +1,3 @@
-console.log("index.js")
+import "./chat.js";
+import "./ui.js";
+import "./app.js";
